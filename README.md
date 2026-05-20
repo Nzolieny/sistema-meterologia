@@ -1,1 +1,1 @@
-# sistema-meterologia
+# sistema-meteorológico
